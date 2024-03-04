@@ -1,0 +1,11 @@
+{
+    "cSpell.language": "en,fa-IR,fa,lorem,en-US,en-GB",
+    "cSpell.ignoreWords": [
+        "btns"
+    ],
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#222E41",
+        "titleBar.activeBackground": "#30405B",
+        "titleBar.activeForeground": "#F9FAFC"
+    }
+}
